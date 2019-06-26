@@ -10,7 +10,7 @@
 * open movies / series component on menu item select
 
 **Hints:**
-* We've added @todo's in comments
+* we have added @todo's in comments
 * use signals / fireAncestors
 * use `_getFocused()`
 * use `_handleEnter()` to select the item
